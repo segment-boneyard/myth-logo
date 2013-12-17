@@ -1,0 +1,11 @@
+
+body {
+  text-align: center;
+  padding-top: 10em;
+}
+.wrap {
+  display: inline-block;
+  font-size: 2em;
+  padding: 1.5em;
+  border: 1px solid #eee;
+}
